@@ -1,0 +1,32 @@
+*{
+    font-family: "Merienda", cursive;
+}
+header{
+    background-color: #FFDFD6;
+}
+header span{
+    color: #694F8E;
+}
+.nav-item a{
+    color: #B692C2;
+}
+/*link visitado*/
+.nav-item a:visited{
+    color: #694F8E;
+}
+.nav-item a:hover{
+    color: #694F8E;
+}
+
+#nav-butoon{
+    background-color: #E3A5C7;
+}
+.bi{
+    color: #FF7EE2;
+}
+.img-proyecto1{
+    background-image: url('/assets/captura-pinterest.png');
+   opacity: 0.6;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
