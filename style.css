@@ -30,3 +30,15 @@ header span{
     background-size: contain;
     background-repeat: no-repeat;
 }
+footer{
+    background-color: #000000;
+}
+footer .icon-footer i{
+    color: #f8eded;
+}
+footer p{
+    color: #f8eded;
+}
+footer p a{
+    color: #f8eded;
+}
